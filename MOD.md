@@ -32,4 +32,13 @@
 | **Mobile Simulators**                         | Simulators mimic the behavior of actual devices, allowing cost-effective testing on different devices.            |  
 | **Network Conditions**                        | Testing the app under various network conditions (2G, 3G, 4G) ensures it performs well in different environments. |
 
+### Processes of Mobile Application Testing
+1. **Outlining the Process:** Plan testing activities, select devices, and prepare a compatibility matrix.
+2. **Identify Testing Type:** Choose the appropriate testing type based on the app.
+3. **Test Cases Design:** Create manual and automated test cases for all features.
+4. **Manual and Automation Testing:** Execute both manual and automated tests to find issues.
+5. **Usability and Beta Testing:** Test the app's user-friendliness with in-house and beta testers.
+6. **Performance Testing:** Evaluate app performance and scalability.
+7. **Complete Testing and Closure:** Final testing and regression testing before sign-off.
 
+**Final Report:** Includes bug count, types of testing, and compatibility matrix.
