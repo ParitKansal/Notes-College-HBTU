@@ -1,3 +1,6 @@
+---
+---
+
 ### **Key features of Java**
 - **Object-Oriented**: Based on classes and objects, supports non-primitive data types.
 - **Platform Independent**: Compiled to bytecode, runs on any platform using JVM.
@@ -27,9 +30,8 @@
 | **Use Cases**              | Ideal for web applications, mobile apps (Android), cross-platform apps | Ideal for system software, game development, performance-critical applications |
 | **Portability**            | High portability (bytecode)         | Less portable (requires recompilation for each platform) |
 
-
-
-
+---
+---
 
 
 
