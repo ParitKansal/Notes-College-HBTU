@@ -236,6 +236,58 @@ Non-functional requirements describe how the app performs its functions. They de
 - Plan Scalable Design  
 - Externalize Configuration Management  
 
+---
+
+### How Networking Protocols Impact Mobile App Performance
+
+1. **Speed**
+   - **TCP vs. UDP**: TCP is slower but reliable (e.g., banking apps). UDP is faster but less reliable (e.g., video streaming).
+   - **HTTP/2 & HTTP/3**: Faster than HTTP/1.1, ideal for data-heavy apps (e.g., social media, news).
+
+2. **Reliability**
+   - **TCP**: Ensures reliable data transmission (e.g., financial apps).
+   - **QUIC**: Fast and reliable, ideal for interactive web apps.
+
+3. **Battery Life**
+   - **Persistent Connections**: WebSockets keep a steady connection, saving battery (e.g., chat apps).
+   - **Lightweight Protocols**: MQTT is efficient, great for apps with frequent notifications.
+
+4. **Data Usage**
+   - **Protocol Overheads**: Newer protocols (e.g., HTTP/2, HTTP/3) reduce data overhead, improving speed.
+   - **Compression**: HTTP/2 reduces data size, saving data on apps with images or text.
+
+5. **Security**
+   - **TLS Encryption**: HTTPS keeps data secure but uses more power. QUIC offers security with better performance.
+   - **VPN**: Adds extra security but can slow down the connection.
+
+6. **Network Conditions**
+   - **Adaptive Protocols**: QUIC and HTTP/3 adjust to network disruptions, ensuring app stability.
+   - **Caching**: HTTP protocols can cache data, speeding up apps and reducing data usage on slow networks.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
