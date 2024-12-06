@@ -7,6 +7,7 @@
 2. **Why is it Done?** To improve the app’s quality.  
 3. **Trends:** Many companies using modern DevOps are building apps with microservices for better performance.  
 
+# Types Of Applications
 | **Type**                  | **Description**                                                                                                                | **Examples**                          |  
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|  
 | **Native Applications**   | Built specifically for a platform (iOS, Android) using platform-specific languages.                                            | WhatsApp, Instagram                   |  
@@ -14,6 +15,7 @@
 | **Progressive Web Apps**  | Apps that can be installed directly using links without visiting an app store, offering offline access and push notifications. | Flipkart Lite, Starbucks PWA          |  
 | **Hybrid Applications**   | Combine web technologies (HTML, CSS, JavaScript) and native capabilities for cross-platform use.                               | Uber, Twitter|  
 
+### Type of Mobile Application Testing
 
 | **Type of Mobile Application Testing** | **Description**                                                                               |  
 |----------------------------------------|-----------------------------------------------------------------------------------------------|  
