@@ -118,6 +118,148 @@ A Mobile Operating System (Mobile OS) is software that manages the hardware and 
 
 
 
+---
+
+### **Functional and Non-Functional Requirements for Mobile Apps: What’s the Difference?**
+
+
+#### **Functional Requirements**
+
+**Definition:**  
+Functional requirements specify what a mobile application should do. They describe the specific functions and features that the app must have and outline how users will interact with it.
+
+**Examples:**
+- **Business Requirements:** These are high-level goals defined by the company. For example, "The app should allow users to browse the product catalog and make purchases."  
+- **User Requirements:** These detail what users can do with the app. For instance, "Users can sign up, view their order history, and search for products."  
+- **Functional Specifications:** These are specific actions the system must perform. For example, "The app should send an email confirmation whenever a user makes a purchase."
+
+
+**Functional Requirements for a Fishing App:**
+
+* Check weather information and water safety.  
+* Provide updates on storm tracks and rain intensity.  
+* Show real-time market prices for fish.  
+* Offer fishing tips, including location recommendations.  
+* Advertise catch availability to local fishers.  
+* Indicate fish procurement needs based on species and quantity.  
+* Facilitate contact information for buyers and sellers.
+
+#### **Non-Functional Requirements**
+
+**Definition:**  
+Non-functional requirements describe how the app performs its functions. They define the quality attributes, system behaviors, and constraints under which the application operates.
+
+**Examples:**
+
+* **Availability:** The app should be available 24/7 with minimal downtime.  
+* **Reliability:** The app must automatically restart after a crash and recover smoothly.  
+* **Scalability:** The app should handle an increasing number of users without performance loss.  
+* **Performance:** The app should support 100 simultaneous users with a response time of less than 2 seconds.  
+* **Security:** The app must protect user data and have access controls in place to prevent unauthorized use.  
+* **Usability:** The app should have an intuitive interface that is easy for users to navigate.  
+* **Extensibility:** The app should be designed to easily integrate new features in the future.
+
+
+---
+
+### **Enterprise Requirements**
+
+- Security Requirements
+- Integration with Existing Systems
+- Scalability
+- User Management and Role-Based Access
+- Performance and Responsiveness
+- Multi-Platform Compatibility
+- Data Analytics and Reporting
+- Compliance with regulations
+
+---
+
+## **What security measures should be implemented in mobile applications to prevent unauthorized access?**
+
+- User Authentication  
+- Data Encryption  
+- Secure APIs  
+- Regular Updates  
+- Access Controls  
+- Secure Storage  
+- Session Management  
+- Monitoring and Logging  
+- User Education  
+- Secure Coding Practices
+  
+---
+
+### **Explain the role of encryption in ensuring the security of sensitive data in mobile applications.**
+
+- Data Protection: Confidentiality
+- Data Integrity: Tamper Detection
+- Secure Communication
+- User Authentication
+- Compliance and Regulations: Legal Requirements
+- Data Recovery
+- End-to-End Encryption (E2EE): User Privacy
+---
+
+## **How can developers optimize mobile applications for performance and scalability?**
+
+- **Efficient Data Management**
+    * Cache data locally to reduce network calls. 
+    * Load data on demand instead of all at once.
+    * Combine multiple network requests into a single call.
+- **Optimize Network Usage**
+    * Reduce Payload Size
+    * Implement Automatic retry of failed network requests 
+- **UI Performance**
+    * Lightweight  Layouts  
+    * Use Scalable Images
+- **Optimize for Battery Life**
+    * Reduce Background Activity
+    * Optimize Use of Sensors
+- **Testing and Monitoring**
+    * Conduct Performance Testing
+    * Monitor Real-Time Performance
+- **Scalable Architecture**
+    * Implement Modular Architecture
+    * Use Microservices
+- **Regular Updates and Maintenance**
+    * Keep Dependencies Updated
+    * Restructuring  Code
+
+### **Strategies for Enhancing Modifiability:**
+- Modular Architecture  
+- Clean Codebase  
+- Automated Testing  
+- Documentation  
+- Version Control  
+- User Feedback  
+- Plan Scalable Design  
+- Externalize Configuration Management  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
