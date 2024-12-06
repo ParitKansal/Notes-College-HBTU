@@ -25,3 +25,11 @@
 | **Interrupt Testing**                  | Checks how the app behaves during interruptions like calls, notifications, or battery changes.|  
 | **Installation Testing**               | Tests if the app installs and uninstalls correctly without issues.                            |  
 
+
+| **Key Factors Influencing Mobile App Testing**| **Description**                                                                                                   |  
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|  
+| **Mobile Devices**                            | Testing the app on various devices with different resolutions, browsers, OS, and hardware is crucial.             |  
+| **Mobile Simulators**                         | Simulators mimic the behavior of actual devices, allowing cost-effective testing on different devices.            |  
+| **Network Conditions**                        | Testing the app under various network conditions (2G, 3G, 4G) ensures it performs well in different environments. |
+
+
