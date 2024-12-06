@@ -1,13 +1,15 @@
-1. **Importance of Mobile:** Mobile devices play a crucial role in daily life.  
-2. **User Preference:** Most users prefer accessing websites and apps on phones over computers for small tasks.  
-3. **QA Responsibility:** Quality Assurance engineers must ensure application quality on mobile devices.  
-4. **Mobile Testing:** Essential for testing apps across all possible devices to maintain quality.
+## Moblie Testing
 
-1. **What is Mobile App Testing?** Checking apps and websites on different mobile devices to ensure they work well.  
-2. **Why is it Done?** To improve the app’s quality.  
-3. **Trends:** Many companies using modern DevOps are building apps with microservices for better performance.  
+- **Importance of Mobile:** Mobile devices play a crucial role in daily life.
+- **User Preference:** Most users prefer accessing websites and apps on phones over computers for small tasks.
+- **QA Responsibility:** Quality Assurance engineers must ensure application quality on mobile devices.
+- **Mobile Testing:** Essential for testing apps across all possible devices to maintain quality.
+- **What is Mobile App Testing?** Checking apps and websites on different mobile devices to ensure they work well.
+- **Why is it Done?** To improve the app’s quality.
+- **Trends:** Many companies using modern DevOps are building apps with microservices for better performance.  
 
-# Types Of Applications
+### Types Of Applications
+
 | **Type**                  | **Description**                                                                                                                | **Examples**                          |  
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|  
 | **Native Applications**   | Built specifically for a platform (iOS, Android) using platform-specific languages.                                            | WhatsApp, Instagram                   |  
