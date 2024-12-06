@@ -1,3 +1,35 @@
+### **Android component model**
+
+Defines how Android apps are built and interact with each other using specific building blocks, known as *components*, each designed to handle different functions of an app.
+Different componets :
+
+
+| **Component**          | **Purpose**                                           | **Example**                                                       |
+|------------------------|-------------------------------------------------------|-------------------------------------------------------------------|
+| **Activities**          | Represents a single screen for user interaction.     | A photo gallery app with different screens like the main view and photo editor. |
+| **Services**            | Runs background tasks without user interface.        | A music player continuing to play music when switching to another app. |
+| **Broadcast Receivers** | Listens for system-wide messages to trigger actions.  | Reacting to a “battery low” notification by dimming the screen or saving progress. |
+| **Content Providers**   | Manages and shares structured data between apps.     | The Contacts app sharing contact data with messaging or email apps. |
+
+
+
+#### **Important Concepts in the Android Component Model**
+
+* **Intent**: This is a messaging object that lets components communicate.  
+* **Lifecycle**: Each component has a specific lifecycle, which means they go through stages like “created,” “started,” “paused,” and “destroyed.”
+
+### Managing Applications Data 
+
+| **Storage Type**         | **Description**                                          | **Advantages**                        | **Disadvantages**                      | **Best For**                                      |
+|--------------------------|----------------------------------------------------------|---------------------------------------|----------------------------------------|--------------------------------------------------|
+| **Internal Storage**      | Stores data privately on the device’s internal memory.   | Secure, private to the app.           | Limited storage space.                 | Sensitive data that needs privacy.               |
+| **SD Cards**              | Uses SD card for additional storage.                     | Expands storage for large files.      | Not secure, not all devices support it. | Large files like images or videos.               |
+| **SQLite Databases**      | Structured data storage using relational model.         | Efficient for structured data.        | Requires SQL knowledge.                | Complex or related data, like user info.         |
+| **Shared Preferences**    | Stores small data as key-value pairs.                    | Easy to use, persists across sessions.| Limited to basic data types.           | Small data like settings or preferences.         |
+| **Web Storage**           | Stores data remotely on web servers or cloud.           | Unlimited storage, syncs across devices. | Needs a network connection.            | Data shared across devices or users.             |
+
+
+
 ## Moblie Testing
 
 - **Importance of Mobile:** Mobile devices play a crucial role in daily life.
