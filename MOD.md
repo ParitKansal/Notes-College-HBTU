@@ -65,6 +65,31 @@ Layouts define how elements are arranged on the screen. In Android, layouts are 
 
 
 
+---
+
+### **Mobile Operating Systems (Mobile OS)**
+
+A Mobile Operating System (Mobile OS) is software that manages the hardware and software resources of a mobile device like a smartphone or tablet. It provides a platform for mobile applications to run, enabling users to interact with the device’s features.
+
+| Feature                | **Android**                     | **iOS**                        | **BlackBerry**                  | **Windows Phone**                |
+|------------------------|---------------------------------|--------------------------------|---------------------------------|----------------------------------|
+| **App Store**          | Large, diverse app store        | Large, but limited to Apple    | Limited app store               | Limited app store                |
+| **Integration**        | Full Google integration         |                                |                                 | Windows integration              |
+| **Wide App Support**   | Broad app support               | Strong app support             | Fewer apps                      | Fewer apps                       |
+| **Multitasking**       | Full multitasking               | Multitasking                   | Multitasking                    | Multitasking                     |
+| **Open-source**        | Open-source                     | Closed-source                  | Closed-source                   | Closed-source                    |
+| **AI Assistant**       | Google Assistant                | Siri                           | BB Assistant                    | Cortana                          |
+| **Developer**          | Google                          | Apple                          | BlackBerry                      | Microsoft                        |
+| **Security**           | Good security with updates      | Most secure                    | Strong security, fewer updates  | Strong security, fewer updates   |
+| **Messenger**          | All major messengers supported  | iMessage                       |                                 | Skype, WhatsApp                  |
+
+
+
+
+
+
+
+
 
 
 
