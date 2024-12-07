@@ -121,6 +121,51 @@ Android software contains an open-source Linux Kernel having collection of numbe
 
 ![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*NgJ1FdYQQDCkE48OyqqOCg.jpeg)
 
+### Designing the Right UI for Mobile Apps:
+
+- **Consistency of Design Layout**: Ensure a consistent flow and design across sections of the app. Apps like Evernote, Netflix, and Dropbox are examples of good design consistency.
+- **Unambiguous Interactive Elements**: Interactive elements should be clearly visible and easily accessible. Avoid hidden menus to ensure users can find key navigation features quickly.
+- **Single Trial Learning Experience**: Design the app so users can easily infer the next steps without needing to memorize processes. The interface should be intuitive and user-friendly.
+- **Anticipate and Answer Users’ Queries**: Notify users about ongoing processes (e.g., "saved in draft", "message sent") using notifications or toasts to keep them informed.
+- **Layered User Experience**: Reveal features gradually as users explore the app, maintaining engagement. For example, WhatsApp unveils new features as users delve deeper into the app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
