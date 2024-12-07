@@ -77,6 +77,76 @@ To ensure a mobile app is successful, it should possess the following key charac
 9. **Marketing Strategy**: Promote the app effectively through online campaigns and tailored strategies for your audience.  
 10. **Testing**: Conduct thorough testing to eliminate bugs and ensure high performance before launch.  
 
+### Android architecture
+
+Android software contains an open-source Linux Kernel having collection of number of C/C++ libraries which are exposed through an application framework services.
+
+**Android Architecture** components:
+
+1. **Applications**:
+   - Topmost layer of Android architecture.
+   - Contains both pre-installed (e.g., contacts, camera) and third-party apps (e.g., chat apps, games).
+   - Apps run within the Android runtime with the help of the application framework.
+
+2. **Application Framework**:
+   - Provides services and classes for building Android apps.
+   - Manages user interface, hardware access, and app resources.
+   - Key services: Activity Manager, Notification Manager, View System, Package Manager, etc.
+
+3. **Android Runtime**:
+   - Consists of Dalvik Virtual Machine (DVM) and core libraries.
+   - DVM: Optimized for Android, it runs multiple instances efficiently.
+   - Core libraries enable apps to be developed in Java/Kotlin.
+
+4. **Platform Libraries**:
+   - Includes C/C++ core libraries and Java libraries.
+   - Key libraries:
+     - **Media**: For audio and video support.
+     - **Surface Manager**: Manages display subsystem.
+     - **OpenGL**: For 2D and 3D graphics.
+     - **SQLite**: Database support.
+     - **WebKit**: Web content display.
+     - **SSL**: Secure connection technology.
+
+5. **Linux Kernel**:
+   - Heart of Android architecture.
+   - Manages drivers, memory, power, and device resources.
+   - Provides abstraction between hardware and Android components.
+   - Key features:
+     - **Security**: Manages security between apps and the system.
+     - **Memory Management**: Efficiently handles memory usage.
+     - **Process Management**: Manages processes and allocates resources.
+     - **Network Stack**: Manages network communication.
+     - **Driver Model**: Ensures device and hardware compatibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
