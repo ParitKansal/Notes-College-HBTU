@@ -1,3 +1,5 @@
+![](https://i.ibb.co/3Ny5q3y/0402-20240820-203742-0000-pdf-17.png)
+
 ### **Introduction to Mobile Computing**  
 
 Mobile computing is a technology that allows devices to share data, audio, and video without being physically connected.
