@@ -138,6 +138,12 @@ Android software contains an open-source Linux Kernel having collection of numbe
 - **Consistency**:  Keep the design the same throughout the app to avoid confusion.
 - **Communication**:  Provide feedback when users take action, like showing a loading icon.
 
+### Voice User Interfaces (VUIs):
+- VUIs use speech for interaction, found in smart speakers and voice assistants.
+- They convert speech to text and understand meaning through speech recognition and natural language processing.
+- VUIs are intuitive and faster than typing but slower than visual output.
+- Filling forms via speech isn't always more efficient than typing.
+
 
 
 
