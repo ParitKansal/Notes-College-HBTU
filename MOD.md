@@ -182,6 +182,59 @@ An agile methodology is an iterative approach to software development. Each iter
      - 1 **product owner**
    - The **Scrum Master** and **Product Owner** are part of the **Team Interface**, while the rest of the team is part of the **Technical Interface**.
 
+### Mobile App Development Frameworks
+
+**React Native**  
+- A popular JavaScript library for building apps on both **iOS** and **Android**.
+- It allows using the **same code** for both platforms.
+- Features:
+  - **Low-code** (less coding needed)
+  - Compatible with **third-party plugins** (extra features)
+  - **Declarative API** for easier user interface design
+  - Works on **both iOS and Android**
+
+**Flutter**  
+- A toolkit by **Google** to build apps for mobile, web, and desktop.
+- It has **customizable widgets** for designing apps quickly.
+- Its **layered architecture** helps apps run faster.
+- Features:
+  - **Material design** (standard design for Android)
+  - **Cupertino widgets** (for iOS design)
+  - **Motion APIs** for smooth animations
+  - Works on **both iOS and Android**
+  - **Strong widget support** for better design flexibility
+
+**JQuery Mobile**  
+- A mobile-friendly framework based on **HTML5** for building responsive apps for phones, tablets, and desktops.
+- It includes **ThemeRoller** to easily customize themes.
+- Features:
+  - Built on **JQuery Core** (easy-to-use JavaScript library)
+  - **Lightweight** (small size)
+  - Uses **HTML5** (modern web technology)
+  - **Automatic initialization** for quick setup
+  - **Powerful theming framework** for customization
+  - Simple **API** for easier use
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
