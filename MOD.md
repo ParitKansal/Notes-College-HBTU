@@ -129,7 +129,14 @@ Android software contains an open-source Linux Kernel having collection of numbe
 - **Anticipate and Answer Users’ Queries**: Notify users about ongoing processes (e.g., "saved in draft", "message sent") using notifications or toasts to keep them informed.
 - **Layered User Experience**: Reveal features gradually as users explore the app, maintaining engagement. For example, WhatsApp unveils new features as users delve deeper into the app.
 
-
+### Designing a Successful Mobile App Interface
+- **Uniqueness**:  Make your app different, like *Clear* does with gestures instead of buttons.
+- **Structure**:  Keep things organized and simple, so users can easily find what they need.
+- **Contexts**:  Design for how and where users will use the app (e.g., on the go or at home).
+- **Gestures**:  Use easy gestures (like swiping or tapping) for navigation.
+- **Tolerance**:  Allow users to undo mistakes and show when changes can be reversed.
+- **Consistency**:  Keep the design the same throughout the app to avoid confusion.
+- **Communication**:  Provide feedback when users take action, like showing a loading icon.
 
 
 
