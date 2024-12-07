@@ -144,7 +144,43 @@ Android software contains an open-source Linux Kernel having collection of numbe
 - VUIs are intuitive and faster than typing but slower than visual output.
 - Filling forms via speech isn't always more efficient than typing.
 
+### Agile Methodology
 
+An agile methodology is an iterative approach to software development. Each iteration of agile methodology takes a short time interval of 1 to 4 weeks.
+
+![](https://i.ibb.co/Ptm2Cgw/Agile-Methology.png)
+
+#### **Roles in Agile:**
+
+1. **Scrum Master**:
+   - **Team leader** and facilitator who helps the team follow Agile practices.
+   - Ensures team members meet commitments and customer requirements.
+   - **Responsibilities**:
+     - Promote close cooperation between roles.
+     - Remove blockers and obstacles.
+     - Protect the team from disruptions.
+     - Work with the organization to track progress and processes.
+     - Facilitate **Agile Inspect & Adapt** processes (e.g., meetings, stand-ups, demos, reviews, retrospectives).
+
+2. **Product Owner**:
+   - **Business leader** who manages the product’s vision and priorities.
+   - **Responsibilities**:
+     - Define and prioritize requirements.
+     - Set release dates and contents.
+     - Actively participate in iteration and release planning.
+     - Ensure the team works on high-value tasks.
+     - Represent the **voice of the customer**.
+     - Accept user stories that meet the **definition of done** and acceptance criteria.
+
+3. **Cross-functional Team**:
+   - Agile teams are **self-sufficient** and consist of 5-9 members, typically with 6-10 years of experience.
+   - Roles in the team include:
+     - 3-4 **developers**
+     - 1 **tester**
+     - 1 **technical lead**
+     - 1 **scrum master**
+     - 1 **product owner**
+   - The **Scrum Master** and **Product Owner** are part of the **Team Interface**, while the rest of the team is part of the **Technical Interface**.
 
 
 
