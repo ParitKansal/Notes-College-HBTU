@@ -119,7 +119,7 @@ Android software contains an open-source Linux Kernel having collection of numbe
      - **Network Stack**: Manages network communication.
      - **Driver Model**: Ensures device and hardware compatibility.
 
-
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*NgJ1FdYQQDCkE48OyqqOCg.jpeg)
 
 
 
