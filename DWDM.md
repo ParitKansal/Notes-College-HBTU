@@ -3,9 +3,7 @@
 **Association Rule Mining** is a data mining technique used to uncover interesting relationships, patterns, or correlations among items in large datasets. It is widely applied in market basket analysis, where the goal is to discover rules that predict the occurrence of an item based on the presence of other items.
 
 An association rule is typically written as:
-$
-\text{If A, then B} \quad \text{or} \quad A \rightarrow B
-$
+$\text{If A, then B} \quad \text{or} \quad A \rightarrow B$
 Where:
 - $A$ and $B$ are itemsets (groups of items).
 - $A \rightarrow B$ means that if $A$ occurs, then $B$ is likely to occur as well.
